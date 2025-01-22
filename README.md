@@ -1,6 +1,6 @@
 # no_sql_challenge
 
-Part 1: Database and Jupyter Notebook Set Up
+Part 1: Database and Jupyter Notebook Set Up :\
 --Import data from .json file
 -- Create Mongo Client
 --Create Database and Collection
